@@ -1,11 +1,5 @@
-<br>
-<p align="center">
-  <img src="https://i.imgur.com/3lzaO71.png" alt="its GabrielTenma" width="500" height="400">
-</p>
-<br>
-
-
 ## Gab Lightdm-weebkit
+- fork repository and adapt for my environment
 - LightDM-<b>weebkit</b> Theme with modern style :D
 - More colorfull & animated background!
 - animated Button too!!
