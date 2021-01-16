@@ -159,14 +159,13 @@ body
 	background-color:white;
 	border:1px solid #f5f5f5;
 	border-radius:10px;
-  margin-left:35px;
   margin-bottom:80px;
 }
 
 
 #name
 {
-	margin-left: -31px;
+  padding-left: 7px;
     text-align: left;
     width: 200%;
     font-family: "ubuntu";
